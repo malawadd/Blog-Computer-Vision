@@ -9,5 +9,7 @@
 
 [رابط المقالة](http://malawad.com/blog/types-of-features-&-image-segmentation/?utm_source=Arabic&utm_medium=github&utm_campaign=Mohammed_alawad)  
 
+[المقالة الثالثة:](https://github.com/malawadd/Blog-Computer-Vision/tree/master/03-ORB)   خوارزميات أورب
 
+[رابط المقالة](http://malawad.com/?p=549&utm_source=Arabic&utm_medium=github&utm_campaign=Mohammed%20Alawad)  
 
